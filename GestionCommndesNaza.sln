@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionCommndesNaza", "GestionCommndesNaza\GestionCommndesNaza.csproj", "{6C8E989D-38D4-47BA-950F-058851BA6AFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9038BB35-3312-434F-948A-AF4CFF5D3504}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C8E989D-38D4-47BA-950F-058851BA6AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8E989D-38D4-47BA-950F-058851BA6AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8E989D-38D4-47BA-950F-058851BA6AFA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6C8E989D-38D4-47BA-950F-058851BA6AFA}.Debug|x64.Build.0 = Debug|Any CPU
+		{6C8E989D-38D4-47BA-950F-058851BA6AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8E989D-38D4-47BA-950F-058851BA6AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C8E989D-38D4-47BA-950F-058851BA6AFA}.Release|x64.ActiveCfg = Release|Any CPU
+		{6C8E989D-38D4-47BA-950F-058851BA6AFA}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F56E301-49F4-4382-AD3B-00407016466A}
+	EndGlobalSection
+EndGlobal
